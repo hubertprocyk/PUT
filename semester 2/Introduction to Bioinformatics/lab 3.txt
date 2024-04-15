@@ -1,0 +1,68 @@
+1.
+chr1_16930200_G/A	1:16930200-16930200	A	  missense_variant	CROCC	ENSG00000058453	Transcript	ENST00000375541.10	protein_coding	5/37	702	614	205	R/Q	CGG/CAG	rs140045815, COSV65012636	G	G/A
+chr3_86976649_C/A	3:86976649-86976649	A	  intron_variant	VGLL3	ENSG00000206538	Transcript	ENST00000398399.7	protein_coding	-	-	-	-	-	-	-	C	C/A
+chr11_5227002_T/C	11:5227002-5227002	C	  missense_variant	HBB	ENSG00000244734	Transcript	ENST00000335295.4	protein_coding	1/3	70	20	7	E/G	GAG/GGG	rs334, CD830010, CM097155, CM880038	T	T/C
+chr11_68357673_G/T	11:68357673-68357673	T	  missense_variant	LRP5	ENSG00000162337	Transcript	ENST00000294304.12	protein_coding	3/23	636	512	171	G/V	GGT/GTT	rs121908668, CM020033	G	G/T
+chr16_22534585_C/T	16:22534585-22534585	T	  synonymous_variant	NPIPB5	ENSG00000243716	Transcript	ENST00000424340.7	protein_coding	7/7	4513	1602	534	A	GCC/GCT	rs760901784, COSV69996270	C	C/T
+chrX_100408144_T/C	X:100408144-100408144	C	  missense_variant	PCDH19	ENSG00000165194	Transcript	ENST00000373034.8	protein_coding	1/6	2130	454	152	S/G	AGC/GGC	-	T	T/C
+
+
+2.
+chr11_68357673_G/T	11:68357673-68357673	T	  missense_variant	LRP5	ENSG00000162337	Transcript	ENST00000294304.12	protein_coding	3/23	636	512	171	G/V	GGT/GTT	rs121908668, CM020033	G	G/T
+
+
+3.
+Accession: GO:0002053
+Definition: The process of activating or increasing the rate or extent of mesenchymal cell proliferation. Mesenchymal cells are loosely organized embryonic cells. Source: GOC:dph
+Ancestor Chart -> Chart options -> Show children
+https://www.ebi.ac.uk/QuickGO/GTerm?id=GO:0002053#term=history
+
+
+4.
+chr1_16930200_G/A: 0.003292 https://gnomad.broadinstitute.org/variant/1-17256695-G-A?dataset=gnomad_r2_1
+
+chr3_86976649_C/A: nie ma rsID
+
+chr11_5227002_T/C: 0.004374 https://gnomad.broadinstitute.org/variant/11-5248232-T-A?dataset=gnomad_r2_1
+
+chr11_68357673_G/T: "No matching variants found" https://gnomad.broadinstitute.org/variant/rs121908668?dataset=gnomad_r2_1
+                    dla gnomAD 4.0 0.000001200 https://gnomad.broadinstitute.org/variant/11-68357673-G-T?dataset=gnomad_r4
+
+chr16_22534585_C/T: 0.002097 https://gnomad.broadinstitute.org/variant/16-22545906-C-T?dataset=gnomad_r2_1
+
+chrX_100408144_T/C: nie ma rsID
+
+
+5.
+chr1_16930200_G/A: TOLERATED https://fathmm.biocompute.org.uk/cgi-bin/results.cgi?session=e254bc56-634d-41ac-b9b1-70519c9b5129
+
+chr3_86976649_C/A: nie ma rsID
+
+chr11_5227002_T/C: DAMAGING https://fathmm.biocompute.org.uk/cgi-bin/results.cgi?session=77c33553-da9b-44a1-94ad-e9d53d521bd2
+Disease Of Anatomical Entity
+Disease Of Cellular Proliferation
+Immune System Disease
+Respiratory System Disease
+Lower Respiratory Tract Disease
+Lung Disease
+Pre-Malignant Neoplasm
+
+chr11_68357673_G/T:DAMAGING https://fathmm.biocompute.org.uk/cgi-bin/results.cgi?session=2c2e8627-a3ca-4374-b887-a4743353a360
+Disease Of Anatomical Entity
+Nervous System Disease
+Central Nervous System Disease
+Cognitive Disorder
+Neurodegenerative Disease
+Dementia
+
+chr16_22534585_C/T: No dbSNP Mapping(s) https://fathmm.biocompute.org.uk/cgi-bin/results.cgi?session=bca1c25e-382b-4395-b016-7d7273ee01e0
+
+chrX_100408144_T/C: nie ma rsID
+
+6.
+CROCC:	TAK (5x > 5%)
+VGLL3:	TAK (1x > 5%)
+HBB: 	TAK (1x > 5%)
+LRP5:	TAK (8x > 5%)
+NPIPB5:	NIE
+PCDH19:	TAK (8x > 5%)

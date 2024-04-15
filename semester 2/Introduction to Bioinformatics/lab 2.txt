@@ -1,0 +1,68 @@
+>Sekwencja 1
+CATTTATGCTCAAGTATGATGAAAATGGTACAATCACAGATGCTGTTGATTGTTCTCAAAATCCACTTGC
+TGAACTCAAATGCTCTGTTAAGAGCTTTGAGATTGACAAAGGAATTTACCAGACCTCTAATTTCAGGGTT
+GTTCCCTCAGGAGATGTTGTGAGATTCCCTAATATTACAAACTTGTGTCCTTTTGGAGAGGTTTTTAATG
+CTACTAAATTCCCTTCTGTCTATGCATGGGAGAGAAAAAAAATTTCTAATTGTGTTGCTGATTACTCTGT
+GCTCTACAACTCAACATTTTTTTCAACCTTTAAGTGCTATGGCGTTTCTGCCACTAAGTTGAATGATCTT
+TGCTTCTCCAATGTCTATGCAGATTCTTTTGTAGTCAAGGGAGATGATGTAAGACAAATAGCGCCAGGAC
+AAACTGGTGTTATTGCTGATTATAATTATAAATTGCCAGATGATTTCATGGGTTGTGTCCTTGCTTGGAA
+TACTAGGAACATTGATGCTACTTCAACTGGTAATTATAATTATAAATATAGGTATCTTAGACATGGCAAG
+CTTAGGCCCTTTGAGAGAGACATATCTAATGTGCCTTTCTCCCCTGATGGCAAACCTTGCACCCCACCTG
+CTCTTAATTGTTATTGGCCATTAA
+
+1. SARS coronavirus Urbani isolate icSARS-C7, complete genome
+LOCUS       MK062183               29874 bp    RNA     linear   VRL 21-NOV-2018
+DEFINITION  SARS coronavirus Urbani isolate icSARS-C7, complete genome.
+ACCESSION   MK062183
+VERSION     MK062183.1
+KEYWORDS    .
+SOURCE      SARS coronavirus Urbani
+  ORGANISM  SARS coronavirus Urbani
+            Viruses; Riboviria; Orthornavirae; Pisuviricota; Pisoniviricetes;
+            Nidovirales; Cornidovirineae; Coronaviridae; Orthocoronavirinae;
+            Betacoronavirus; Sarbecovirus; Severe acute respiratory
+            syndrome-related coronavirus.
+
+RefSeq: VERSION     NC_045512.2
+Rozmiar: 29903
+Ile genów: 11?
+
+https://www.ncbi.nlm.nih.gov/nuccore/MK062183.1/
+https://www.ncbi.nlm.nih.gov/nuccore/NC_045512.2#sequence_NC_045512.2
+
+2. Geo Location: Canada, Toronto
+
+https://www.ncbi.nlm.nih.gov/labs/virus/vssi/#/blastresults?job_id=036X3A6T016&SeqType_s=Nucleotide&Completeness_s=complete&HostLineage_ss=Homo%20sapiens%20(human),%20taxid:9606
+
+3. Drzewo pokazuje hipotetyczną drogę ewolucji badanego wirusa.
+W prawym dolnym rogu doszło do zarażenia miedzy osobami w Kanadzie i Chinach.
+
+https://www.ncbi.nlm.nih.gov/labs/virus/vssi/#/tree?job_id=JSID_01_740601_130.14.22.21_9000__flu_blast
+
+4. vg:1489668
+
+https://www.genome.jp/tmp/blast/240326005723ZNBBA/result_blast.html
+
+5. 
+Gene symbol: S
+Gene description: spike glycoprotein
+Gene type: protein coding
+
+Z lewej: ORF1ab
+Z prawej: ORF3a
+
+https://www.genome.jp/entry/vg:1489668
+https://www.ncbi.nlm.nih.gov/gene/1489668
+
+6. Total count, all bases: 3768
+G~C content: 38.8%
+
+Procent sekwencji z całości : 17,36%
+
+7. https://www.ncbi.nlm.nih.gov/protein/YP_009825051.1?report=genbank&log$=prottop&blast_rank=1&RID=039BERV7013
+
+https://www.ncbi.nlm.nih.gov/protein/AAR07630.1
+https://www.ncbi.nlm.nih.gov/protein/P59594.1
+https://www.ncbi.nlm.nih.gov/protein/AAP33697.1
+https://www.ncbi.nlm.nih.gov/protein/AFR58672.1
+https://www.ncbi.nlm.nih.gov/protein/ABD72984.1?report=genbank&log$=prottop&blast_rank=6&RID=039BERV7013
