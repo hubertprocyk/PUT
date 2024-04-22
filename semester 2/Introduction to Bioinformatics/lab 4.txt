@@ -1,0 +1,15 @@
+1.
+Needleman-Wunsch
+https://bioboot.github.io/bimm143_W20/class-material/nw/
+https://experiments.mostafa.io/public/needleman-wunsch/
+https://rna.informatik.uni-freiburg.de/Teaching/index.jsp?toolName=Needleman-Wunsch
+https://gtuckerkellogg.github.io/pairwise/demo/
+
+Smith-Waterman
+https://gtuckerkellogg.github.io/pairwise/demo/
+https://rna.informatik.uni-freiburg.de/Teaching/index.jsp?toolName=Smith-Waterman
+https://observablehq.com/@manzt/smith-waterman-algorithm
+https://codepen.io/timeipert/pen/aVgWoj
+
+2.
+https://docs.google.com/spreadsheets/d/1lsS3s75_hMlKt7Vyi3L_ECKBIN6cEp5JnDtGOaAj1zY/edit?usp=sharing
