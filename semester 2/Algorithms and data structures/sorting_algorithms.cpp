@@ -7,10 +7,8 @@ void fillRandom(int arr[], int n)
 {
   for (int i = 0; i < n; i++)
   {
-    // cout << rand() % 10000 << " ";
     arr[i] = rand() % 1000000;
   }
-  // cout << "\n";
 }
 void fillNotLesser(int arr[], int n)
 {
@@ -18,10 +16,8 @@ void fillNotLesser(int arr[], int n)
   for (int i = 0; i < n; i++)
   {
     a += rand() % 100;
-    // cout << a << " ";
     arr[i] = a;
   }
-  // cout << "\n";
 }
 void fillNotGreater(int arr[], int n)
 {
@@ -29,10 +25,8 @@ void fillNotGreater(int arr[], int n)
   for (int i = 0; i < n; i++)
   {
     a -= rand() % 100;
-    // cout << a << " ";
     arr[i] = a;
   }
-  // cout << "\n";
 }
 void fillVShaped(int arr[], int n)
 {
